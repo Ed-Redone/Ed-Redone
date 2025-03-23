@@ -1,3 +1,5 @@
+![logo](https://github.com/Ed-Redone/Ed-Redone/blob/main/1732998149391.jpeg)
+
 <h1 align="center">Hi 👋, I'm Ed-dahmany Redouane</h1>
 <h3 align="center">A passionate Software Engineer from Morocco</h3>
 
