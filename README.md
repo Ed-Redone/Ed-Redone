@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ed-dahmany Redouane</h1>
 <h3 align="center">A passionate Software Engineer from Morocco</h3>
 
-<img alig="right" alt="coding" width="400" src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ed-redone&label=Profile%20views&color=0e75b6&style=flat" alt="ed-redone" /> </p>
 
 - 📫 How to reach me **redonedahmany@gmail.com**
