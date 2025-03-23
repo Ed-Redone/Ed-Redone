@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ed-dahmany Redouane</h1>
 <h3 align="center">A passionate Software Engineer from Morocco</h3>
 
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJibnpjcHk3N3pzMXR0NnNxZGlwMzNmbHRmOWZxeTV3dWphcHdpbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/200.webp">
+<img align="right" alt="coding" width="400" src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJibnpjcHk3N3pzMXR0NnNxZGlwMzNmbHRmOWZxeTV3dWphcHdpbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/200.webp](https://media4.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.webp?cid=790b7611o8dqz1yudupmiudmovwfytsm3u20c06rlnso33jz&ep=v1_gifs_search&rid=giphy.webp&ct=g)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ed-redone&label=Profile%20views&color=0e75b6&style=flat" alt="ed-redone" /> </p>
 
